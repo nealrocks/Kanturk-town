@@ -69,6 +69,31 @@ menu { font-size: 100%;
             position: absolute;
             }
 
+            #history-image { 
+                  height: 600px;
+                  width: 100%;
+                  background: url('../images/Kanturk-Castle.jpg') no-repeat center center;
+                  background-size: contain;
+                  background-attachment: fixed;
+            }
+            
+            #history-text { font: 130%;
+                  font-family: oswald, sans-serif;
+                  text-transform: uppercase;
+                  letter-spacing: 4px;
+                  width: 300px;
+                  height: 400px;
+                  padding-top: 40px;
+                  padding-left: 10px;
+                  background-color: rgba(241, 109, 107, .7);
+                  bottom: 30px;
+                  right: 150px;
+      
+                  position: absolute;
+                  }
+
+            
+
             footer { 
                 height: 150px;
           }
