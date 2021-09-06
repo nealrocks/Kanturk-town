@@ -68,6 +68,13 @@ menu { font-size: 100%;
 
             position: absolute;
             }
+
+            #left-about {
+                  padding-top: 30px;
+                  width: 33%;
+                  float: left;
+                 }
+                 
 #history-outer {  height: 600px;
       width: 100%;
       overflow: hidden;
