@@ -31,25 +31,24 @@ The core purpose of this website is to provide core information about Kanturk. T
 ### **Website Features:**
 
 **Welcome Page Feature:**
-<img src="images/Kanturk-website-Homepage.JPG">
+<img src="https://github.com/nealrocks/Kanturk-town/blob/aef50c108d722b9c5e15409939a810267029f8f3/assets/images/Kanturk-website-Homepage.JPG">
 
 * My website homepage I went with a photo of a sign saying "Welcome to Kanturk" in Irish and I have Kanturk
   Town as my Heading and I had the headings of my other Three pages on the left-side at the top of the page. 
 
 **History Page:**
-<img src="images/Kanturk-website-History.JPG">
+<img src="https://github.com/nealrocks/Kanturk-town/blob/aef50c108d722b9c5e15409939a810267029f8f3/assets/images/Kanturk-website-History.JPG">
 
 * My Second page is my History page and I went with a photo of Kanturk castle with a brief story about the
   castle to go with the photo.
 
 **Clubs & Groups Page:**
-<img src="images/Kanturk-website-Clubs.JPG">
-
+<img src="https://github.com/nealrocks/Kanturk-town/blob/aef50c108d722b9c5e15409939a810267029f8f3/assets/images/Kanturk-website-Clubs.JPG">
 * My Third page is my Clubs & Groups page with all the clubs & groups in Kanturk town with a link attached to
   each of them so it will lead the user to their webpage or facebook page. 
 
 **Future Page:**
-<img src="images/Kanturk-website-future.JPG">
+<img src="https://github.com/nealrocks/Kanturk-town/blob/aef50c108d722b9c5e15409939a810267029f8f3/assets/images/Kanturk-website-future.JPG">
 
 * My Fourth page is my future page with everything that is going to be built in Kanturk town in the very near future and links attached to them so they can read about them.
 
